@@ -4,6 +4,12 @@
 
 ## 用法
 
+**Python 版（推荐）：**
+```bash
+python organize.py [目标文件夹路径]
+```
+
+**Node.js 版：**
 ```bash
 node organize.js [目标文件夹路径]
 ```
